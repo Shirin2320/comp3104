@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Shirin2320/comp3104_devops/static/css/main.073c9b0a.css",
+    "main.js": "/Shirin2320/comp3104_devops/static/js/main.a4c89be4.js",
+    "static/js/787.72c49556.chunk.js": "/Shirin2320/comp3104_devops/static/js/787.72c49556.chunk.js",
+    "static/media/logo.svg": "/Shirin2320/comp3104_devops/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Shirin2320/comp3104_devops/index.html",
+    "main.073c9b0a.css.map": "/Shirin2320/comp3104_devops/static/css/main.073c9b0a.css.map",
+    "main.a4c89be4.js.map": "/Shirin2320/comp3104_devops/static/js/main.a4c89be4.js.map",
+    "787.72c49556.chunk.js.map": "/Shirin2320/comp3104_devops/static/js/787.72c49556.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a4c89be4.js"
+  ]
+}
